@@ -11,6 +11,12 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does not use third party services. 
 
+We collect user's Image information such as images or videos captured by the camera or selected from the gallery. This information is used to provide and improve our services and features.
+
+We do not share or sell the image or video information to any third parties, except as required by law or with your consent. We may share your image information with service providers who assist us in providing our services, but only to the extent necessary for them to perform their services.
+
+We have implemented appropriate security measures to protect your image information against unauthorized access, alteration, disclosure, or destruction.You have the right to access, correct, and delete your image information at any time.
+
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
